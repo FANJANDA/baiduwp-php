@@ -30,7 +30,7 @@ if (!defined('init')) { // 直接访问处理程序
 
 define('BDUSS', ''); // 你的 BDUSS
 define('STOKEN', ''); // 你的 STOKEN
-define('SVIP_BDUSS', ''); // 你的 SVIP BDUSS
+define('SVIP_BDUSS', 'kFuSGhnRlkwdnJoa1Ezb2J4aTFQbjBTLTc0RjA3QzJVVnliOEdxSXlsTGJ6UDFmSVFBQUFBJCQAAAAAAAAAAAEAAACf63E9t7a~obTvODgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANs~1l~bP9ZfN'); // 你的 SVIP BDUSS
 define('IsCheckPassword', false); // 设为 true 则要求密码为变量 Password 的值，否则提示密码错误；设为 false 则不需要密码。
 define('Password', '请在这里填写密码'); // 在下载器首页需要输入的密码，如果将 IsCheckPassWord 设为 false 则无论设置什么都会失效。
 define('Footer', ''); // 页脚统计代码放置处
